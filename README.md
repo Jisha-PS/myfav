@@ -1,6 +1,6 @@
 # 👋  Hi JISHA PS here
 - Studing at RAMCO INSTITUTE OF TECHNOLOGY (**ECE**)
-- I’m interested in ML,AI,Electronics too etc
+- I’m interested in ML, AI, Electronics too etc
 - I’m currently learning-C,Python etc
 - Welcome to my Github
 
